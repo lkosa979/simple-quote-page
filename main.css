@@ -15,9 +15,18 @@ body {
 .wrapper {
   text-align: center;
   margin: 0 auto;
+  padding-top: 5rem;
+  width: 80%;
 
 }
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+}
+
+.author {
+  font-family: 'Crimson Text', serif;
+  font-size: 1rem;
+  font-style: italic;
 }
